@@ -1,0 +1,6 @@
+D:\projects\shake\shake\shake\bin\Debug\shake.exe.config
+D:\projects\shake\shake\shake\obj\Debug\shake.csprojResolveAssemblyReference.cache
+D:\projects\shake\shake\shake\bin\Debug\shake.exe
+D:\projects\shake\shake\shake\bin\Debug\shake.pdb
+D:\projects\shake\shake\shake\obj\Debug\shake.exe
+D:\projects\shake\shake\shake\obj\Debug\shake.pdb
