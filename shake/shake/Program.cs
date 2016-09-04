@@ -10,12 +10,16 @@ namespace shake
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point(1, 3, '*');
-            p1.Draw();
+            Console.SetBufferSize(80, 25);
 
-
-            Point p2 = new Point(4, 5, '#');
-            p2.Draw();
+            HorisontalLine upLine = new HorisontalLine(0, 78, 0, '+');
+            HorisontalLine downLine = new HorisontalLine(0, 78, 24, '+');
+            VertLine rightLine = new VertLine(0, 24, 0, '+');
+            VertLine leftLine = new VertLine(0, 24, 78, '+');
+            upLine.Drow();
+            downLine.Drow();
+            rightLine.Drow();
+            leftLine.Drow();
 
 
             Console.ReadLine();
